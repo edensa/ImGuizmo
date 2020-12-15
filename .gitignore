@@ -1,0 +1,11 @@
+# out-of-tree build subdirectory
+bin/*
+bin-int/*
+
+# Visual Studio files and folder
+.vs/*
+*.sln
+*.DotSettings.user
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
